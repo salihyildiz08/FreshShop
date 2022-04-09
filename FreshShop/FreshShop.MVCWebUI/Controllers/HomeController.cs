@@ -1,4 +1,5 @@
-﻿using FreshShop.MVCWebUI.Models;
+﻿using FreshShop.DataAccess.Concrete;
+using FreshShop.MVCWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -11,10 +12,11 @@ namespace FreshShop.MVCWebUI.Controllers
 {
     public class HomeController : Controller
     {
-        
 
+        
         public IActionResult Index()
         {
+
             return View();
         }
 
