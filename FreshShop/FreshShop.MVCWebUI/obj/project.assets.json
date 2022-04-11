@@ -1483,6 +1483,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "FreshShop.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "FreshShop.DataAccess": "1.0.0",
+          "FreshShop.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FreshShop.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreshShop.Business.dll": {}
+        }
+      },
       "FreshShop.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5719,6 +5733,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "FreshShop.Business/1.0.0": {
+      "type": "project",
+      "path": "../FreshShop.Business/FreshShop.Business.csproj",
+      "msbuildProject": "../FreshShop.Business/FreshShop.Business.csproj"
+    },
     "FreshShop.DataAccess/1.0.0": {
       "type": "project",
       "path": "../FreshShop.DataAccess/FreshShop.DataAccess.csproj",
@@ -5732,6 +5751,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "FreshShop.Business >= 1.0.0",
       "FreshShop.DataAccess >= 1.0.0"
     ]
   },
@@ -5767,6 +5787,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\eksen\\Desktop\\.NET proje\\Proje\\FreshShop\\FreshShop.Business\\FreshShop.Business.csproj": {
+              "projectPath": "C:\\Users\\eksen\\Desktop\\.NET proje\\Proje\\FreshShop\\FreshShop.Business\\FreshShop.Business.csproj"
+            },
             "C:\\Users\\eksen\\Desktop\\.NET proje\\Proje\\FreshShop\\FreshShop.DataAccess\\FreshShop.DataAccess.csproj": {
               "projectPath": "C:\\Users\\eksen\\Desktop\\.NET proje\\Proje\\FreshShop\\FreshShop.DataAccess\\FreshShop.DataAccess.csproj"
             }

@@ -1,0 +1,10 @@
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\bin\Debug\netcoreapp3.1\FreshShop.Model.deps.json
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\bin\Debug\netcoreapp3.1\FreshShop.Model.dll
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\bin\Debug\netcoreapp3.1\FreshShop.Model.pdb
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.csproj.AssemblyReference.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.AssemblyInfoInputs.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.AssemblyInfo.cs
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.csproj.CoreCompileInputs.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.dll
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.Model\obj\Debug\netcoreapp3.1\FreshShop.Model.pdb

@@ -1,0 +1,13 @@
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\bin\Debug\netcoreapp3.1\FreshShop.DataAccess.deps.json
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\bin\Debug\netcoreapp3.1\FreshShop.DataAccess.dll
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\bin\Debug\netcoreapp3.1\FreshShop.DataAccess.pdb
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\bin\Debug\netcoreapp3.1\FreshShop.Model.dll
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\bin\Debug\netcoreapp3.1\FreshShop.Model.pdb
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.AssemblyInfo.cs
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.csproj.CopyComplete
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.dll
+C:\Users\eksen\Desktop\.NET proje\Proje\FreshShop\FreshShop.DataAccess\obj\Debug\netcoreapp3.1\FreshShop.DataAccess.pdb

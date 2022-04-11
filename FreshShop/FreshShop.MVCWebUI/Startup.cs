@@ -1,3 +1,7 @@
+using FreshShop.Business.Absract;
+using FreshShop.Business.Concrete;
+using FreshShop.DataAccess.Absract;
+using FreshShop.DataAccess.Concrete;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +28,12 @@ namespace FreshShop.MVCWebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddSingleton<IManagerBs,ManagerBs>();
+            services.AddSingleton<IManagerRepository, ManagerRepository>();
+
+            services.AddSingleton<IProductBs, ProductBs>();
+            services.AddSingleton<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

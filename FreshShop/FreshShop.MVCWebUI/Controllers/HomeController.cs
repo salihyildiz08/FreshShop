@@ -1,4 +1,6 @@
-﻿using FreshShop.DataAccess.Concrete;
+﻿using FreshShop.Business.Absract;
+using FreshShop.Business.Concrete;
+using FreshShop.DataAccess.Concrete;
 using FreshShop.MVCWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -12,11 +14,15 @@ namespace FreshShop.MVCWebUI.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IManagerBs _managerBs;
 
-        
+        public HomeController(IManagerBs managerBs)
+        {
+            _managerBs = managerBs;
+        }
         public IActionResult Index()
         {
-
+           
             return View();
         }
 
