@@ -27,7 +27,7 @@ namespace FreshShop.MVCWebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             services.AddSingleton<IManagerBs,ManagerBs>();
             services.AddSingleton<IManagerRepository, ManagerRepository>();
@@ -58,6 +58,14 @@ namespace FreshShop.MVCWebUI
 
             app.UseEndpoints(endpoints =>
             {
+
+                endpoints.MapAreaControllerRoute(
+                    name:"adminLogIn",
+                    areaName:"AdminPanel",
+                    pattern:"admin",
+                    defaults:new { controller="Manager",action="LogIn"}
+                    );
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
